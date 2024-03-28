@@ -2,7 +2,7 @@
   "name": "knowledge098simple-calculator-night-class",
   "version": "1.0.0",
   "description": "A simple calculator with typescript nodeja and inquirer",
-  "main": "index.js", 
+  "main": "index.js",
   "bin": "app.js",
   "type": "module",
   "scripts": {
